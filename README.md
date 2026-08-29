@@ -2,6 +2,8 @@
 
 Welcome to the official website codebase for **Planning Labs**, an experiential and digital marketing agency based in Mumbai.
 
+🌐 **Live Prototype Demo**: [https://planning-labs-eight.vercel.app/](https://planning-labs-eight.vercel.app/)
+
 This project is a redesign built from the ground up to reflect the full scope of Planning Labs' capabilities. It unplugs the agency from a traditional static template and provides a modern, fast, content-rich platform built on Next.js 16.
 
 ---

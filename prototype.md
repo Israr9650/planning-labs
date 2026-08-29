@@ -6,9 +6,14 @@ Instead of presenting static image mockups or generic wireframe slides, this sub
 
 ---
 
-## 🚀 Prototype Quick Start & Execution
+## 🌐 Live Demo & Execution
 
-### 1. Run Development Server
+### Live Deployed Prototype URL
+👉 **[https://planning-labs-eight.vercel.app/](https://planning-labs-eight.vercel.app/)**
+
+---
+
+### 1. Run Development Server Locally
 To launch the interactive prototype locally:
 
 ```bash
